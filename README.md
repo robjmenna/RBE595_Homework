@@ -9,3 +9,7 @@ All of the code is in the file 'Homework3/homework3.ipynb'. The file can be foun
 ## Homework #4
 
 The code is contained in [this](https://github.com/robjmenna/RBE595_Homework/blob/main/HW4/mnist_challenge.ipynb) IPython notebook. The code develops and evaluates a model for interpreting the MNIST handwritten digits dataset.
+
+## Homework #7-8
+
+The code is contained in [this](https://github.com/robjmenna/RBE595_Homework/blob/main/HW8/Homework8.ipynb) IPython notebook. The code develops and evaluates a model for classifying images of other classmates faces.

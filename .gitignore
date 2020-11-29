@@ -7,3 +7,5 @@ HW3/.ipynb_checkpoints/*
 HW8/images/*
 HW8/test_images/*
 */.vscode/*
+.vscode/*
+HW8/weights/*
